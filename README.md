@@ -10,7 +10,9 @@
 * [Rotate 1-d array](https://www.geeksforgeeks.org/array-rotation/)
 * [Maximum product of 2 numbers in an array](https://www.geeksforgeeks.org/return-a-pair-with-maximum-product-in-array-of-integers/)
 * [Maximum number of rows in a matrix](https://www.geeksforgeeks.org/find-the-row-with-maximum-number-1s/)
-* [Find maximum in a sliding window](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+* [Find maximum in a sliding window of size k](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
+* [Find the sum of the max and min number in a sliding window of size k](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/)
+* [Find the max of mins for evrey window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
