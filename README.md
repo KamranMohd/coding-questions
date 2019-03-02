@@ -33,3 +33,9 @@
 
 ## Recursion
 * [Get total paths in a matrix](https://practice.geeksforgeeks.org/problems/number-of-paths/0)
+
+## Stack
+* [Sort a given stack](https://www.geeksforgeeks.org/sort-stack-using-temporary-stack/)
+* [Sort a given stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
+* [Design a special stack with getMin operation in O(1)](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
+* [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
