@@ -13,6 +13,8 @@
 * [Find maximum in a sliding window of size k](https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/)
 * [Find the sum of the max and min number in a sliding window of size k](https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/)
 * [Find the max of mins for evrey window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
+* [A product array puzzle](https://www.geeksforgeeks.org/product-array-puzzle-set-2-o1-space/)
+* [Largest subarray with 0 sum](https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
@@ -25,6 +27,7 @@
 * [Find the merge point of 2 linked list](https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/)
 * [Merge 2 sorted linked list](https://www.geeksforgeeks.org/merge-two-sorted-linked-lists/)	
 * [Sorting a linked list](https://www.geeksforgeeks.org/merge-sort-for-linked-list/)
+* [Nth node from the end of a linked list](https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/)
 
 ## Bit manipulation
 * [Generate the binary representation of all the numbers between 1 to n](https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)
