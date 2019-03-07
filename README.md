@@ -15,6 +15,8 @@
 * [Find the max of mins for evrey window size in a given array](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)
 * [A product array puzzle](https://www.geeksforgeeks.org/product-array-puzzle-set-2-o1-space/)
 * [Largest subarray with 0 sum](https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/)
+* [Move zeros to the back of the array](https://www.geeksforgeeks.org/move-zeroes-end-array/)
+* [Maximum sum of i* arr[i] among all rotations of a given array](https://www.geeksforgeeks.org/maximum-sum-iarri-among-rotations-given-array/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
