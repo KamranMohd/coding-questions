@@ -24,6 +24,7 @@
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
 * [Find uncommon characters in 2 strings](https://www.geeksforgeeks.org/find-uncommon-characters-two-strings/)
 * [Form minimum number from a given sequence](https://www.geeksforgeeks.org/form-minimum-number-from-given-sequence/)
+* [Given 3 characters a, b, c. Find the number of strings of length n that can be formed from these 3 characters. Given that : we can use ‘a’ as many times as we want, ‘b’ maximum once, and ‘c’ maximum twice.](https://practice.geeksforgeeks.org/problems/total-number-of-strings/0)
  
 ## Linked List
 * [Sort LL of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-linked-list-0s-1s-2s-changing-links/) 
