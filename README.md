@@ -19,6 +19,7 @@
 * [Maximum sum of i* arr[i] among all rotations of a given array](https://www.geeksforgeeks.org/maximum-sum-iarri-among-rotations-given-array/)
 * [Check if array contains contiguous integers with duplicates allowed](https://www.geeksforgeeks.org/check-array-contains-contiguous-integers-duplicates-allowed/)
 * [Check if array elements are consecutive - no duplicates ](https://www.geeksforgeeks.org/check-if-array-elements-are-consecutive/)
+* [Find the median of 2 sorted arrays](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
