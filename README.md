@@ -21,6 +21,8 @@
 * [Check if array elements are consecutive - no duplicates ](https://www.geeksforgeeks.org/check-if-array-elements-are-consecutive/)
 * [Find the median of 2 sorted arrays of same size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays/)
 * [Find the median of 2 sorted arrays of different size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/)
+* [Find the maximum sum subarray in a matrix](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/)
+* [Find the maximum sum such that no 2 elements are adjacent](https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
