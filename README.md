@@ -24,6 +24,7 @@
 * [Find the maximum sum subarray in a matrix](https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/)
 * [Find the maximum sum such that no 2 elements are adjacent](https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/)
 * [Find the maximum rain water trapped](https://www.geeksforgeeks.org/trapping-rain-water/)
+* [Celebrity problem](https://www.geeksforgeeks.org/the-celebrity-problem/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
@@ -43,6 +44,7 @@
 * [Generate the binary representation of all the numbers between 1 to n](https://www.geeksforgeeks.org/interesting-method-generate-binary-numbers-1-n/)
 * [Count number of bits to be flipped to convert A to B](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
 * [Reverse bits of a number](https://www.geeksforgeeks.org/reverse-actual-bits-given-number/)
+* [Game of XOR](https://practice.geeksforgeeks.org/problems/game-of-xor/0)
 
 ## Recursion
 * [Get total paths in a matrix](https://practice.geeksforgeeks.org/problems/number-of-paths/0)
