@@ -54,3 +54,12 @@
 * [Sort a given stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
 * [Design a special stack with getMin operation in O(1)](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
 * [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
+
+## Tree
+* [Find difference in odd level sum and even level sum](https://www.geeksforgeeks.org/difference-between-sums-of-odd-and-even-levels/)
+* [Max level sum in a binary tree](https://www.geeksforgeeks.org/find-level-maximum-sum-binary-tree/)
+* [Check if 2 trees are isomorphic](https://www.geeksforgeeks.org/tree-isomorphism-problem/)
+* [Check if 2 trees are mirror image of each other](https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/)
+* [Height of a binary tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
+* [Max path sum of a binary tree from one leaf to another](https://www.geeksforgeeks.org/find-maximum-path-sum-two-leaves-binary-tree/)
+* [Max path sum of a binary tree from any node to any other node](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
