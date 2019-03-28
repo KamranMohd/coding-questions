@@ -25,6 +25,8 @@
 * [Find the maximum sum such that no 2 elements are adjacent](https://www.geeksforgeeks.org/find-maximum-possible-stolen-value-houses/)
 * [Find the maximum rain water trapped](https://www.geeksforgeeks.org/trapping-rain-water/)
 * [Celebrity problem](https://www.geeksforgeeks.org/the-celebrity-problem/)
+* [Largest rectangle in a histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+* [Nut and bolt problem, key and lock problem](https://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
@@ -63,3 +65,6 @@
 * [Height of a binary tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 * [Max path sum of a binary tree from one leaf to another](https://www.geeksforgeeks.org/find-maximum-path-sum-two-leaves-binary-tree/)
 * [Max path sum of a binary tree from any node to any other node](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
+* [Print the left view of the binary tree](https://www.geeksforgeeks.org/print-left-view-binary-tree/)
+* [Print the right view of the binary tree](https://www.geeksforgeeks.org/print-right-view-binary-tree-2/)
+* [Check if all the leaf nodes are on the same level](https://www.geeksforgeeks.org/check-leaves-level/)
