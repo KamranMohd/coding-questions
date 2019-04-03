@@ -57,6 +57,10 @@
 * [Design a special stack with getMin operation in O(1)](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
 * [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
 
+## Queue and PriorityQueue
+* [Minimum cost of connecting ropes](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
+* [Maximize sum after k negations](https://www.geeksforgeeks.org/maximize-array-sum-k-negations-set-2/)
+
 ## Tree
 * [Find difference in odd level sum and even level sum](https://www.geeksforgeeks.org/difference-between-sums-of-odd-and-even-levels/)
 * [Max level sum in a binary tree](https://www.geeksforgeeks.org/find-level-maximum-sum-binary-tree/)
@@ -68,3 +72,4 @@
 * [Print the left view of the binary tree](https://www.geeksforgeeks.org/print-left-view-binary-tree/)
 * [Print the right view of the binary tree](https://www.geeksforgeeks.org/print-right-view-binary-tree-2/)
 * [Check if all the leaf nodes are on the same level](https://www.geeksforgeeks.org/check-leaves-level/)
+* [Print extreme nodes in alternate order](https://www.geeksforgeeks.org/print-extreme-nodes-of-each-level-of-binary-tree-in-alternate-order/)

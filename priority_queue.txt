@@ -1,0 +1,8 @@
+Min priority queue in java
+PriorityQueue<Integer> pq = new PriorityQueue<>();
+
+Max priority queue in java 8 (using lambda)
+PriorityQueue<Integer> pq = new PriorityQueue<>((x, y) -> y-x);
+
+Max priority queue in java < 8
+PriorityQueue<Integer> queue = new PriorityQueue<>(10, Collections.reverseOrder());
