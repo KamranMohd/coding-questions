@@ -27,6 +27,7 @@
 * [Celebrity problem](https://www.geeksforgeeks.org/the-celebrity-problem/)
 * [Largest rectangle in a histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
 * [Nut and bolt problem, key and lock problem](https://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/)
+* [Binary strings without consecutive 1s](https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
