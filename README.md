@@ -28,6 +28,7 @@
 * [Largest rectangle in a histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
 * [Nut and bolt problem, key and lock problem](https://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/)
 * [Binary strings without consecutive 1s](https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
+* [Leaders in an array](https://www.geeksforgeeks.org/leaders-in-an-array/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
@@ -74,3 +75,4 @@
 * [Print the right view of the binary tree](https://www.geeksforgeeks.org/print-right-view-binary-tree-2/)
 * [Check if all the leaf nodes are on the same level](https://www.geeksforgeeks.org/check-leaves-level/)
 * [Print extreme nodes in alternate order](https://www.geeksforgeeks.org/print-extreme-nodes-of-each-level-of-binary-tree-in-alternate-order/)
+* [k-th smallest element in BST](https://www.geeksforgeeks.org/find-k-th-smallest-element-in-bst-order-statistics-in-bst/)
