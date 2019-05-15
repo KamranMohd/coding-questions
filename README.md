@@ -29,12 +29,18 @@
 * [Nut and bolt problem, key and lock problem](https://www.geeksforgeeks.org/nuts-bolts-problem-lock-key-problem/)
 * [Binary strings without consecutive 1s](https://www.geeksforgeeks.org/count-number-binary-strings-without-consecutive-1s/)
 * [Leaders in an array](https://www.geeksforgeeks.org/leaders-in-an-array/)
+* [Count of smaller and equal elements in the sorted array](https://www.geeksforgeeks.org/count-smaller-equal-elements-sorted-array/)
+* [Maximum subarray sum modulo m](https://www.geeksforgeeks.org/maximum-subarray-sum-modulo-m/)
+* [Check if there is a subarray with sum 0](https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/)
+* [Maximum subarray size sum less than k](https://www.geeksforgeeks.org/maximum-subarray-size-subarrays-size-sum-less-k/)
+* [Maximum occuring intergers in ranges](https://www.geeksforgeeks.org/maximum-occurred-integer-n-ranges/)
 
 ## Strings
 * [Remove common characters from string 1](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
 * [Find uncommon characters in 2 strings](https://www.geeksforgeeks.org/find-uncommon-characters-two-strings/)
 * [Form minimum number from a given sequence](https://www.geeksforgeeks.org/form-minimum-number-from-given-sequence/)
 * [Given 3 characters a, b, c. Find the number of strings of length n that can be formed from these 3 characters. Given that : we can use ‘a’ as many times as we want, ‘b’ maximum once, and ‘c’ maximum twice.](https://practice.geeksforgeeks.org/problems/total-number-of-strings/0)
+* [Count special palindromes in a string](https://www.geeksforgeeks.org/count-special-palindromes-in-a-string/)
  
 ## Linked List
 * [Sort LL of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-linked-list-0s-1s-2s-changing-links/) 
@@ -58,6 +64,8 @@
 * [Sort a given stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
 * [Design a special stack with getMin operation in O(1)](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
 * [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
+* [Find max rectangular area in a histogram](https://www.geeksforgeeks.org/largest-rectangle-under-histogram/)
+* [Implement queue using 2 stacks](https://www.geeksforgeeks.org/queue-using-stacks/)
 
 ## Queue and PriorityQueue
 * [Minimum cost of connecting ropes](https://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
